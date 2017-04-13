@@ -1,0 +1,6 @@
+Reflect: Initializing a Repository
+a .git directory is created. to create a the repository.
+
+Reflect: Staging Area
+staging area is where the files are placed before commiting 
+to the repository and the working directory are the actual or original files. the repository containes the commited files with label. It offers the value of labeling.
