@@ -1,0 +1,35 @@
+Reflect: Using diff to Find Bugs
+The diff between two versions helped me
+to see bugs by returning changes in the 
+two documents and I was able to look closely 
+at less text in a shorter period of time to see
+mistakes. 
+
+Reflect: Using History for Efficiency
+Histroy could allow you to see previous or
+earlier version in case something went wrong
+it would be easier to spot errors. In case you 
+are trying to build similar app, history could 
+be used a foundation.
+
+Reflect: Manual Commits
+manual commmits the programmer has full control
+when to commit or not and this could prevent clutter 
+or excessive versions. but the user may forget to commit 
+and the automaatic save may be more useful at that point, or 
+the system may crash and user may not have time to commmit and the automatic save may save a life. The manual commit 
+
+Reflect: Multi-File Commits
+it is a good form of synchronizaton, one click and all saved, it is time managed and all files are cynchronized.
+
+Reflect: Using Git to View History
+first populate the commits by using git log, then copy the commit ID
+base on the versions that you would like to compare and use git diff
+to compare them.
+
+Reflect: Confidence from Version Control
+The changes are stored using version control, therefore one could feel
+safe to try other stuff that might even break the code and can revert to get back work code.
+
+Reflect: How Do You Want to Use Git?
+To start use version control and to learn to program the right way.
