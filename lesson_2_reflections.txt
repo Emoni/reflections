@@ -4,3 +4,20 @@ a .git directory is created. to create a the repository.
 Reflect: Staging Area
 staging area is where the files are placed before commiting 
 to the repository and the working directory are the actual or original files. the repository containes the commited files with label. It offers the value of labeling.
+
+Reflect: Commit Size
+in the staging you could actually compare between the working directory and the repository. 
+
+Reflect: When to Use Branches
+In situations when two or more versions may be required or during testing on something new.
+
+Reflect: Visualizing with Diagrams
+diagrams help you to physically visualise the branch/tree structure 
+
+Reflect: Merging Two Branches
+The result is that one branch is combined into another. it is represented in the 
+diagram to be able to visulise what git merger does and how to view history. 
+
+Reflect: Automatic vs. Manual Merging
+automatic it saves time and completes where less conflicts exist. manual gives the progammer
+control to deal with conflicts.
